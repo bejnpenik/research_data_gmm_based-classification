@@ -1,0 +1,2410 @@
+{
+    "Median": {
+        "SVM Iris": 0.033333,
+        "SVM Wine": 0.013889,
+        "SVM Parkinsons": 0.12821,
+        "SVM Thyroid": 0.025641,
+        "SVM Sonar": 0.16667,
+        "SVM Seeds": 0.071429,
+        "SVM Glass": 0.31755,
+        "SVM Weka": 0.16129,
+        "SVM Ecoli": 0.122145,
+        "SVM Leaf": 0.41176,
+        "SVM Liver": 0.24638,
+        "SVM Iono": 0.07796800000000001,
+        "SVM Wisc": 0.028571,
+        "SVM Diabetes": 0.24429,
+        "SVM Vehicle": 0.23669,
+        "SVM Vowel": 0.0631315,
+        "SVM Yeast": 0.40271,
+        "SVM SteelPlates": 0.2732,
+        "SVM Wifi": 0.02,
+        "SVM Abalone": 0.7276549999999999,
+        "SVM Wilt": 0.019121,
+        "SVM Landsat": 0.10023,
+        "SVM WineQualityRed": 0.367835,
+        "SVM WineQualityWhite": 0.425345,
+        "SVM PhaseGesture": 0.46531999999999996,
+        "SVM Digits": 0.0050045,
+        "SVM EegEye": 0.30674500000000005,
+        "SVM Htru": 0.021508,
+        "SVM Telescope": 0.133015,
+        "SVM LetterRecognition": 0.055375,
+        "SVM Statlog": 0.0027586,
+        "SVM SensorlessDrive": 0.029353999999999998,
+        "SVM Skin": 0.0016731,
+        "SVM DiabetesPic": 0.3087,
+        "SVM IndianLiver": 0.29003,
+        "SVM DrugConsumption": 0.5809,
+        "SVM Musk": 0.031095499999999998,
+        "SVM Image": 0.4026,
+        "SVM Frogs": 0.009729,
+        "SVM Bankotes": 0.0,
+        "QDA Iris": 0.033333,
+        "QDA Wine": 0.0,
+        "QDA Parkinsons": 0.12821,
+        "QDA Thyroid": 0.025641,
+        "QDA Sonar": 0.26829,
+        "QDA Seeds": 0.047619,
+        "QDA Glass": null,
+        "QDA Weka": null,
+        "QDA Ecoli": null,
+        "QDA Leaf": null,
+        "QDA Liver": 0.27536,
+        "QDA Iono": null,
+        "QDA Wisc": 0.05,
+        "QDA Diabetes": 0.254075,
+        "QDA Vehicle": 0.14793,
+        "QDA Vowel": 0.12626,
+        "QDA Yeast": null,
+        "QDA SteelPlates": null,
+        "QDA Wifi": 0.02,
+        "QDA Abalone": null,
+        "QDA Wilt": 0.018595,
+        "QDA Landsat": 0.141025,
+        "QDA WineQualityRed": 0.43084500000000003,
+        "QDA WineQualityWhite": 0.5107649999999999,
+        "QDA PhaseGesture": 0.543685,
+        "QDA Digits": null,
+        "QDA EegEye": 0.5058400000000001,
+        "QDA Htru": 0.032961000000000004,
+        "QDA Telescope": 0.215825,
+        "QDA LetterRecognition": 0.114125,
+        "QDA Statlog": null,
+        "QDA SensorlessDrive": 0.15916,
+        "QDA Skin": 0.0165675,
+        "QDA DiabetesPic": null,
+        "QDA IndianLiver": 0.44397,
+        "QDA DrugConsumption": 0.65517,
+        "QDA Musk": 0.038163,
+        "QDA Image": null,
+        "QDA Frogs": 0.038221,
+        "QDA Bankotes": 0.014572000000000002,
+        "LDA Iris": 0.033333,
+        "LDA Wine": 0.0,
+        "LDA Parkinsons": null,
+        "LDA Thyroid": 0.051282,
+        "LDA Sonar": 0.25,
+        "LDA Seeds": 0.0357145,
+        "LDA Glass": 0.37209,
+        "LDA Weka": 0.16129,
+        "LDA Ecoli": null,
+        "LDA Leaf": 0.20588,
+        "LDA Liver": 0.24638,
+        "LDA Iono": null,
+        "LDA Wisc": 0.042857,
+        "LDA Diabetes": 0.22222,
+        "LDA Vehicle": 0.215335,
+        "LDA Vowel": 0.39899,
+        "LDA Yeast": 0.411165,
+        "LDA SteelPlates": 0.341495,
+        "LDA Wifi": 0.028749999999999998,
+        "LDA Abalone": 0.730655,
+        "LDA Wilt": 0.0578805,
+        "LDA Landsat": 0.15889999999999999,
+        "LDA WineQualityRed": 0.40127,
+        "LDA WineQualityWhite": 0.464345,
+        "LDA PhaseGesture": 0.544945,
+        "LDA Digits": 0.123265,
+        "LDA EegEye": 0.360815,
+        "LDA Htru": 0.02514,
+        "LDA Telescope": 0.216745,
+        "LDA LetterRecognition": 0.2985,
+        "LDA Statlog": 0.055632,
+        "LDA SensorlessDrive": null,
+        "LDA Skin": 0.06827050000000001,
+        "LDA DiabetesPic": 0.279825,
+        "LDA IndianLiver": 0.28448,
+        "LDA DrugConsumption": 0.592835,
+        "LDA Musk": 0.065018,
+        "LDA Image": null,
+        "LDA Frogs": 0.075052,
+        "LDA Bankotes": 0.021898,
+        "REBMIX Iris": 0.041667,
+        "REBMIX Wine": 0.013986,
+        "REBMIX Parkinsons": 0.28846,
+        "REBMIX Thyroid": 0.019108,
+        "REBMIX Sonar": 0.27108,
+        "REBMIX Seeds": 0.065476,
+        "REBMIX Glass": 0.42275,
+        "REBMIX Weka": 0.16935,
+        "REBMIX Ecoli": 0.1109,
+        "REBMIX Leaf": 0.11948500000000001,
+        "REBMIX Liver": 0.23913,
+        "REBMIX Iono": 0.308375,
+        "REBMIX Wisc": 0.0402135,
+        "REBMIX Diabetes": 0.239215,
+        "REBMIX Vehicle": 0.51846,
+        "REBMIX Vowel": 0.23169,
+        "REBMIX Yeast": 0.6366700000000001,
+        "REBMIX SteelPlates": 0.369405,
+        "REBMIX Wifi": 0.0175,
+        "REBMIX Abalone": 0.7476,
+        "REBMIX Wilt": 0.051279,
+        "REBMIX Landsat": 0.190175,
+        "REBMIX WineQualityRed": 0.430165,
+        "REBMIX WineQualityWhite": 0.550215,
+        "REBMIX PhaseGesture": 0.5749500000000001,
+        "REBMIX Digits": 0.180255,
+        "REBMIX EegEye": 0.44334,
+        "REBMIX Htru": 0.049237,
+        "REBMIX Telescope": 0.217335,
+        "REBMIX LetterRecognition": 0.35746999999999995,
+        "REBMIX Statlog": 0.07827600000000001,
+        "REBMIX SensorlessDrive": 0.335345,
+        "REBMIX Skin": 0.024984,
+        "REBMIX DiabetesPic": 0.494025,
+        "REBMIX IndianLiver": 0.43629,
+        "REBMIX DrugConsumption": 0.61472,
+        "REBMIX Musk": 0.17176,
+        "REBMIX Image": 0.14123000000000002,
+        "REBMIX Frogs": 0.1204,
+        "REBMIX Bankotes": 0.028233,
+        "LOGREG Iris": 0.033333,
+        "LOGREG Wine": 0.057143,
+        "LOGREG Parkinsons": 0.15385,
+        "LOGREG Thyroid": 0.025641,
+        "LOGREG Sonar": 0.26509499999999997,
+        "LOGREG Seeds": 0.047619,
+        "LOGREG Glass": 0.37209,
+        "LOGREG Weka": 0.14516,
+        "LOGREG Ecoli": 0.13636,
+        "LOGREG Leaf": 0.26471,
+        "LOGREG Liver": 0.24638,
+        "LOGREG Iono": 0.12857,
+        "LOGREG Wisc": 0.035714,
+        "LOGREG Diabetes": 0.224745,
+        "LOGREG Vehicle": 0.20118,
+        "LOGREG Vowel": 0.32828,
+        "LOGREG Yeast": 0.41286,
+        "LOGREG SteelPlates": 0.32474,
+        "LOGREG Wifi": 0.02,
+        "LOGREG Abalone": 0.72422,
+        "LOGREG Wilt": 0.032025,
+        "LOGREG Landsat": 0.172105,
+        "LOGREG WineQualityRed": 0.400635,
+        "LOGREG WineQualityWhite": 0.46126500000000004,
+        "LOGREG PhaseGesture": 0.527105,
+        "LOGREG Digits": 0.0757505,
+        "LOGREG EegEye": 0.35881,
+        "LOGREG Htru": 0.020812999999999998,
+        "LOGREG Telescope": 0.21004,
+        "LOGREG LetterRecognition": 0.29025,
+        "LOGREG Statlog": 0.031781500000000004,
+        "LOGREG SensorlessDrive": 0.460565,
+        "LOGREG Skin": 0.081135,
+        "LOGREG DiabetesPic": 0.24783,
+        "LOGREG IndianLiver": 0.27826,
+        "LOGREG DrugConsumption": 0.58621,
+        "LOGREG Musk": 0.080565,
+        "LOGREG Image": 0.047619,
+        "LOGREG Frogs": 0.0601115,
+        "LOGREG Bankotes": 0.010909,
+        "REBMVNORM Iris": 0.016667,
+        "REBMVNORM Wine": 0.0,
+        "REBMVNORM Parkinsons": 0.21795,
+        "REBMVNORM Thyroid": 0.025316,
+        "REBMVNORM Sonar": 0.0060241,
+        "REBMVNORM Seeds": 0.029762,
+        "REBMVNORM Glass": 0.35673,
+        "REBMVNORM Weka": 0.17742,
+        "REBMVNORM Ecoli": 0.09542,
+        "REBMVNORM Leaf": 0.19117499999999998,
+        "REBMVNORM Liver": 0.24094,
+        "REBMVNORM Iono": 0.053381,
+        "REBMVNORM Wisc": 0.042934,
+        "REBMVNORM Diabetes": 0.235965,
+        "REBMVNORM Vehicle": 0.15214,
+        "REBMVNORM Vowel": 0.07197,
+        "REBMVNORM Yeast": 0.55959,
+        "REBMVNORM SteelPlates": 0.558775,
+        "REBMVNORM Wifi": 0.018125,
+        "REBMVNORM Abalone": 0.75795,
+        "REBMVNORM Wilt": 0.025316,
+        "REBMVNORM Landsat": 0.12364,
+        "REBMVNORM WineQualityRed": 0.39857,
+        "REBMVNORM WineQualityWhite": 0.493205,
+        "REBMVNORM PhaseGesture": 0.54577,
+        "REBMVNORM Digits": 0.0498695,
+        "REBMVNORM EegEye": 0.540095,
+        "REBMVNORM Htru": 0.0241995,
+        "REBMVNORM Telescope": 0.21940500000000002,
+        "REBMVNORM LetterRecognition": 0.11349999999999999,
+        "REBMVNORM Statlog": 0.034655000000000005,
+        "REBMVNORM SensorlessDrive": 0.730405,
+        "REBMVNORM Skin": 0.011405499999999999,
+        "REBMVNORM DiabetesPic": 0.44843,
+        "REBMVNORM IndianLiver": 0.437365,
+        "REBMVNORM DrugConsumption": 0.5586899999999999,
+        "REBMVNORM Musk": 0.02244,
+        "REBMVNORM Image": 0.21077,
+        "REBMVNORM Frogs": 0.036831,
+        "REBMVNORM Bankotes": 0.0091111,
+        "NNET Iris": 0.033333,
+        "NNET Wine": 0.027778,
+        "NNET Parkinsons": 0.10256,
+        "NNET Thyroid": 0.025641,
+        "NNET Sonar": 0.19512,
+        "NNET Seeds": 0.047619,
+        "NNET Glass": 0.35714,
+        "NNET Weka": 0.19355,
+        "NNET Ecoli": 0.19848500000000002,
+        "NNET Leaf": 0.36765,
+        "NNET Liver": 0.27536,
+        "NNET Iono": null,
+        "NNET Wisc": 0.057143,
+        "NNET Diabetes": 0.280135,
+        "NNET Vehicle": 0.21006,
+        "NNET Vowel": 0.194445,
+        "NNET Yeast": 0.40878,
+        "NNET SteelPlates": 0.31572,
+        "NNET Wifi": 0.025,
+        "NNET Abalone": 0.724055,
+        "NNET Wilt": 0.01343,
+        "NNET Landsat": 0.1216,
+        "NNET WineQualityRed": 0.40127,
+        "NNET WineQualityWhite": 0.442565,
+        "NNET PhaseGesture": 0.494935,
+        "NNET Digits": 0.0243405,
+        "NNET EegEye": 0.39619499999999996,
+        "NNET Htru": 0.0205335,
+        "NNET Telescope": 0.13091,
+        "NNET LetterRecognition": 0.308375,
+        "NNET Statlog": 0.0026437,
+        "NNET SensorlessDrive": 0.107085,
+        "NNET Skin": 0.00095896,
+        "NNET DiabetesPic": 0.26957,
+        "NNET IndianLiver": 0.31897,
+        "NNET DrugConsumption": 0.60212,
+        "NNET Musk": null,
+        "NNET Image": null,
+        "NNET Frogs": 0.024322,
+        "NNET Bankotes": 0.0,
+        "MDA Iris": 0.033333,
+        "MDA Wine": 0.0,
+        "MDA Parkinsons": 0.10256,
+        "MDA Thyroid": 0.025641,
+        "MDA Sonar": 0.204705,
+        "MDA Seeds": 0.047619,
+        "MDA Glass": 0.305925,
+        "MDA Weka": null,
+        "MDA Ecoli": null,
+        "MDA Leaf": null,
+        "MDA Liver": 0.253625,
+        "MDA Iono": null,
+        "MDA Wisc": 0.042857,
+        "MDA Diabetes": 0.25325,
+        "MDA Vehicle": 0.18935,
+        "MDA Vowel": 0.085859,
+        "MDA Yeast": 0.41554,
+        "MDA SteelPlates": null,
+        "MDA Wifi": 0.0175,
+        "MDA Abalone": 0.74161,
+        "MDA Wilt": 0.035124,
+        "MDA Landsat": 0.11189,
+        "MDA WineQualityRed": 0.42222,
+        "MDA WineQualityWhite": 0.466395,
+        "MDA PhaseGesture": 0.537215,
+        "MDA Digits": 0.016375,
+        "MDA EegEye": 0.21963,
+        "MDA Htru": 0.021232,
+        "MDA Telescope": 0.184675,
+        "MDA LetterRecognition": 0.09925,
+        "MDA Statlog": 0.0212065,
+        "MDA SensorlessDrive": null,
+        "MDA Skin": 0.017057,
+        "MDA DiabetesPic": 0.305195,
+        "MDA IndianLiver": 0.303035,
+        "MDA DrugConsumption": 0.62069,
+        "MDA Musk": 0.0625445,
+        "MCLUST Iris": 0.033333,
+        "MCLUST Wine": 0.027778,
+        "MCLUST Parkinsons": 0.15385,
+        "MCLUST Thyroid": 0.025641,
+        "MCLUST Sonar": 0.289195,
+        "MCLUST Seeds": 0.071429,
+        "MCLUST Glass": null,
+        "MCLUST Weka": 0.17742,
+        "MCLUST Ecoli": 0.18462,
+        "MCLUST Leaf": null,
+        "MCLUST Liver": 0.26087,
+        "MCLUST Iono": 0.12052500000000001,
+        "MCLUST Wisc": 0.064748,
+        "MCLUST Diabetes": 0.314935,
+        "MCLUST Vehicle": 0.17751,
+        "MCLUST Vowel": 0.189395,
+        "MCLUST Yeast": 0.66892,
+        "MCLUST SteelPlates": 0.35264,
+        "MCLUST Wifi": 0.015,
+        "MCLUST Abalone": null,
+        "MCLUST Wilt": 0.01292,
+        "MCLUST Landsat": 0.1251,
+        "MCLUST WineQualityRed": null,
+        "MCLUST WineQualityWhite": null,
+        "MCLUST PhaseGesture": 0.510255,
+        "MCLUST Digits": 0.020473,
+        "MCLUST EegEye": 0.122995,
+        "MCLUST Htru": 0.037295999999999996,
+        "MCLUST Telescope": 0.14353,
+        "MCLUST LetterRecognition": 0.05575,
+        "MCLUST Statlog": null,
+        "MCLUST SensorlessDrive": 0.0768245,
+        "MCLUST Skin": null,
+        "MCLUST DiabetesPic": 0.33622,
+        "MCLUST IndianLiver": 0.33043,
+        "MCLUST DrugConsumption": 0.60743,
+        "MCLUST Musk": 0.0526505,
+        "MCLUST Image": 0.132035,
+        "MCLUST Frogs": 0.0350935,
+        "MCLUST Bankotes": 0.0
+    },
+    "IQR": {
+        "SVM Iris": 0.066667,
+        "SVM Wine": 0.027778,
+        "SVM Parkinsons": 0.07051774999999999,
+        "SVM Thyroid": 0.05096150000000001,
+        "SVM Sonar": 0.05226,
+        "SVM Seeds": 0.047619,
+        "SVM Glass": 0.08264749999999998,
+        "SVM Weka": 0.04838999999999999,
+        "SVM Ecoli": 0.045451000000000005,
+        "SVM Leaf": 0.08823000000000003,
+        "SVM Liver": 0.057969999999999994,
+        "SVM Iono": 0.041449,
+        "SVM Wisc": 0.021273999999999998,
+        "SVM Diabetes": 0.04575000000000001,
+        "SVM Vehicle": 0.035509999999999986,
+        "SVM Vowel": 0.025253000000000005,
+        "SVM Yeast": 0.036670000000000036,
+        "SVM SteelPlates": 0.03400500000000001,
+        "SVM Wifi": 0.009999999999999998,
+        "SVM Abalone": 0.024619999999999975,
+        "SVM Wilt": 0.00697275,
+        "SVM Landsat": 0.011460750000000006,
+        "SVM WineQualityRed": 0.03770000000000001,
+        "SVM WineQualityWhite": 0.018534999999999968,
+        "SVM PhaseGesture": 0.017467500000000025,
+        "SVM Digits": 0.0013669999999999993,
+        "SVM EegEye": 0.08744749999999996,
+        "SVM Htru": 0.003283750000000002,
+        "SVM Telescope": 0.0051925000000000165,
+        "SVM LetterRecognition": 0.005187500000000005,
+        "SVM Statlog": 0.000660875,
+        "SVM SensorlessDrive": 0.0012819999999999984,
+        "SVM Skin": 0.0002448000000000001,
+        "SVM DiabetesPic": 0.026090000000000002,
+        "SVM IndianLiver": 0.05318250000000002,
+        "SVM DrugConsumption": 0.031830000000000025,
+        "SVM Musk": 0.007062249999999999,
+        "SVM Image": 0.03409000000000001,
+        "SVM Frogs": 0.0031274000000000024,
+        "SVM Bankotes": 0.0,
+        "QDA Iris": 0.033333,
+        "QDA Wine": 0.027778,
+        "QDA Parkinsons": 0.05128999999999999,
+        "QDA Thyroid": 0.05,
+        "QDA Sonar": 0.07897000000000001,
+        "QDA Seeds": 0.04166675,
+        "QDA Glass": null,
+        "QDA Weka": null,
+        "QDA Ecoli": null,
+        "QDA Leaf": null,
+        "QDA Liver": 0.05797000000000002,
+        "QDA Iono": null,
+        "QDA Wisc": 0.021428999999999997,
+        "QDA Diabetes": 0.050210000000000005,
+        "QDA Vehicle": 0.03627,
+        "QDA Vowel": 0.030300000000000007,
+        "QDA Yeast": null,
+        "QDA SteelPlates": null,
+        "QDA Wifi": 0.010000000000000002,
+        "QDA Abalone": null,
+        "QDA Wilt": 0.005165000000000003,
+        "QDA Landsat": 0.01593,
+        "QDA WineQualityRed": 0.0370625,
+        "QDA WineQualityWhite": 0.026542500000000024,
+        "QDA PhaseGesture": 0.015072499999999933,
+        "QDA Digits": null,
+        "QDA EegEye": 0.11473750000000005,
+        "QDA Htru": 0.003909499999999996,
+        "QDA Telescope": 0.007617499999999999,
+        "QDA LetterRecognition": 0.008312499999999987,
+        "QDA Statlog": null,
+        "QDA SensorlessDrive": 0.023190000000000016,
+        "QDA Skin": 0.000678500000000002,
+        "QDA DiabetesPic": null,
+        "QDA IndianLiver": 0.06681500000000001,
+        "QDA DrugConsumption": 0.03978999999999999,
+        "QDA Musk": 0.0066950000000000134,
+        "QDA Image": null,
+        "QDA Frogs": 0.005907499999999996,
+        "QDA Bankotes": 0.0100065,
+        "LDA Iris": 0.033333,
+        "LDA Wine": 0.027778,
+        "LDA Parkinsons": null,
+        "LDA Thyroid": 0.05192000000000001,
+        "LDA Sonar": 0.11019000000000004,
+        "LDA Seeds": 0.023809,
+        "LDA Glass": 0.08720500000000003,
+        "LDA Weka": 0.04838999999999999,
+        "LDA Ecoli": null,
+        "LDA Leaf": 0.05882000000000001,
+        "LDA Liver": 0.057969999999999994,
+        "LDA Iono": null,
+        "LDA Wisc": 0.021223000000000002,
+        "LDA Diabetes": 0.05058249999999995,
+        "LDA Vehicle": 0.03669,
+        "LDA Vowel": 0.04166249999999999,
+        "LDA Yeast": 0.023650000000000004,
+        "LDA SteelPlates": 0.03285750000000004,
+        "LDA Wifi": 0.013750000000000005,
+        "LDA Abalone": 0.022857499999999975,
+        "LDA Wilt": 0.009087500000000005,
+        "LDA Landsat": 0.01593,
+        "LDA WineQualityRed": 0.04090499999999997,
+        "LDA WineQualityWhite": 0.01807000000000003,
+        "LDA PhaseGesture": 0.013032500000000113,
+        "LDA Digits": 0.009947499999999984,
+        "LDA EegEye": 0.010927499999999923,
+        "LDA Htru": 0.0024447500000000025,
+        "LDA Telescope": 0.00893499999999997,
+        "LDA LetterRecognition": 0.006812499999999999,
+        "LDA Statlog": 0.0032755000000000076,
+        "LDA SensorlessDrive": null,
+        "LDA Skin": 0.0012387500000000107,
+        "LDA DiabetesPic": 0.03369249999999996,
+        "LDA IndianLiver": 0.05171999999999999,
+        "LDA DrugConsumption": 0.027854999999999963,
+        "LDA Musk": 0.008304249999999999,
+        "LDA Image": null,
+        "LDA Frogs": 0.010771500000000003,
+        "LDA Bankotes": 0.010842999999999998,
+        "REBMIX Iris": 0.016667,
+        "REBMIX Wine": 0.007042700000000001,
+        "REBMIX Parkinsons": 0.01922999999999997,
+        "REBMIX Thyroid": 0.006329000000000001,
+        "REBMIX Sonar": 0.026227500000000015,
+        "REBMIX Seeds": 0.029762000000000004,
+        "REBMIX Glass": 0.05197499999999999,
+        "REBMIX Weka": 0.05544249999999998,
+        "REBMIX Ecoli": 0.01784749999999999,
+        "REBMIX Leaf": 0.02572999999999999,
+        "REBMIX Liver": 0.01359249999999998,
+        "REBMIX Iono": 0.04537000000000002,
+        "REBMIX Wisc": 0.0067087499999999994,
+        "REBMIX Diabetes": 0.011300000000000032,
+        "REBMIX Vehicle": 0.026767499999999944,
+        "REBMIX Vowel": 0.03062249999999997,
+        "REBMIX Yeast": 0.06993500000000008,
+        "REBMIX SteelPlates": 0.01651999999999998,
+        "REBMIX Wifi": 0.0024999999999999988,
+        "REBMIX Abalone": 0.012514999999999943,
+        "REBMIX Wilt": 0.027825000000000003,
+        "REBMIX Landsat": 0.0239375,
+        "REBMIX WineQualityRed": 0.013124999999999942,
+        "REBMIX WineQualityWhite": 0.007649999999999935,
+        "REBMIX PhaseGesture": 0.11346249999999991,
+        "REBMIX Digits": 0.009434999999999999,
+        "REBMIX EegEye": 0.026579999999999993,
+        "REBMIX Htru": 0.020741749999999996,
+        "REBMIX Telescope": 0.009294999999999998,
+        "REBMIX LetterRecognition": 0.0023475000000000024,
+        "REBMIX Statlog": 0.028635250000000015,
+        "REBMIX SensorlessDrive": 0.030484999999999984,
+        "REBMIX Skin": 0.014636500000000004,
+        "REBMIX DiabetesPic": 0.04112750000000004,
+        "REBMIX IndianLiver": 0.038627499999999926,
+        "REBMIX DrugConsumption": 0.013259999999999939,
+        "REBMIX Musk": 0.002517499999999978,
+        "REBMIX Image": 0.02138000000000001,
+        "REBMIX Frogs": 0.00959249999999999,
+        "REBMIX Bankotes": 0.02006225,
+        "LOGREG Iris": 0.066667,
+        "LOGREG Wine": 0.054762000000000005,
+        "LOGREG Parkinsons": 0.07692000000000002,
+        "LOGREG Thyroid": 0.05,
+        "LOGREG Sonar": 0.09001,
+        "LOGREG Seeds": 0.04166650000000001,
+        "LOGREG Glass": 0.0872075,
+        "LOGREG Weka": 0.0604875,
+        "LOGREG Ecoli": 0.05810399999999999,
+        "LOGREG Leaf": 0.07352999999999998,
+        "LOGREG Liver": 0.06884500000000002,
+        "LOGREG Iono": 0.0519125,
+        "LOGREG Wisc": 0.021273999999999998,
+        "LOGREG Diabetes": 0.048124999999999946,
+        "LOGREG Vehicle": 0.024779999999999996,
+        "LOGREG Vowel": 0.0542975,
+        "LOGREG Yeast": 0.03682749999999996,
+        "LOGREG SteelPlates": 0.043820000000000026,
+        "LOGREG Wifi": 0.0075,
+        "LOGREG Abalone": 0.02452500000000013,
+        "LOGREG Wilt": 0.006198000000000002,
+        "LOGREG Landsat": 0.020397499999999985,
+        "LOGREG WineQualityRed": 0.03732500000000005,
+        "LOGREG WineQualityWhite": 0.019097500000000045,
+        "LOGREG PhaseGesture": 0.016475000000000017,
+        "LOGREG Digits": 0.013988749999999994,
+        "LOGREG EegEye": 0.010685,
+        "LOGREG Htru": 0.0027270000000000003,
+        "LOGREG Telescope": 0.008940000000000003,
+        "LOGREG LetterRecognition": 0.019000000000000072,
+        "LOGREG Statlog": 0.0021265000000000034,
+        "LOGREG SensorlessDrive": 0.032767500000000005,
+        "LOGREG Skin": 0.001682000000000003,
+        "LOGREG DiabetesPic": 0.03178500000000001,
+        "LOGREG IndianLiver": 0.042537500000000006,
+        "LOGREG DrugConsumption": 0.025194999999999967,
+        "LOGREG Musk": 0.008996999999999991,
+        "LOGREG Image": 0.01028175,
+        "LOGREG Frogs": 0.008165250000000006,
+        "LOGREG Bankotes": 0.007326300000000001,
+        "REBMVNORM Iris": 0.0166667,
+        "REBMVNORM Wine": 0.006993,
+        "REBMVNORM Parkinsons": 0.07692000000000002,
+        "REBMVNORM Thyroid": 0.006329500000000002,
+        "REBMVNORM Sonar": 0.030074999999999998,
+        "REBMVNORM Seeds": 0.011904000000000001,
+        "REBMVNORM Glass": 0.04366999999999999,
+        "REBMVNORM Weka": 0.016130000000000005,
+        "REBMVNORM Ecoli": 0.011446999999999999,
+        "REBMVNORM Leaf": 0.043202500000000005,
+        "REBMVNORM Liver": 0.014490000000000003,
+        "REBMVNORM Iono": 0.021314,
+        "REBMVNORM Wisc": 0.0049197500000000005,
+        "REBMVNORM Diabetes": 0.01108500000000004,
+        "REBMVNORM Vehicle": 0.014770000000000005,
+        "REBMVNORM Vowel": 0.008207000000000006,
+        "REBMVNORM Yeast": 0.049872499999999875,
+        "REBMVNORM SteelPlates": 0.04446749999999999,
+        "REBMVNORM Wifi": 0.0034374999999999996,
+        "REBMVNORM Abalone": 0.014474999999999905,
+        "REBMVNORM Wilt": 0.008981500000000003,
+        "REBMVNORM Landsat": 0.00553250000000001,
+        "REBMVNORM WineQualityRed": 0.012412499999999993,
+        "REBMVNORM WineQualityWhite": 0.009517500000000012,
+        "REBMVNORM PhaseGesture": 0.0038799999999999946,
+        "REBMVNORM Digits": 0.0122245,
+        "REBMVNORM EegEye": 0.07070000000000004,
+        "REBMVNORM Htru": 0.009357249999999998,
+        "REBMVNORM Telescope": 0.016197499999999976,
+        "REBMVNORM LetterRecognition": 0.002365000000000006,
+        "REBMVNORM Statlog": 0.007356250000000002,
+        "REBMVNORM SensorlessDrive": 0.057925000000000004,
+        "REBMVNORM Skin": 0.004495074999999999,
+        "REBMVNORM DiabetesPic": 0.013277499999999998,
+        "REBMVNORM IndianLiver": 0.016729999999999967,
+        "REBMVNORM DrugConsumption": 0.01359750000000004,
+        "REBMVNORM Musk": 0.0015890000000000001,
+        "REBMVNORM Image": 0.05546749999999995,
+        "REBMVNORM Frogs": 0.0017369999999999955,
+        "REBMVNORM Bankotes": 0.010032799999999998,
+        "NNET Iris": 0.033334,
+        "NNET Wine": 0.028571,
+        "NNET Parkinsons": 0.051286999999999985,
+        "NNET Thyroid": 0.026282,
+        "NNET Sonar": 0.10597750000000003,
+        "NNET Seeds": 0.04761900000000001,
+        "NNET Glass": 0.11627000000000004,
+        "NNET Weka": 0.06048750000000003,
+        "NNET Ecoli": 0.073715,
+        "NNET Leaf": 0.08455250000000003,
+        "NNET Liver": 0.07246000000000002,
+        "NNET Iono": null,
+        "NNET Wisc": 0.021428999999999997,
+        "NNET Diabetes": 0.05194000000000004,
+        "NNET Vehicle": 0.041419999999999985,
+        "NNET Vowel": 0.06312499999999999,
+        "NNET Yeast": 0.028567499999999968,
+        "NNET SteelPlates": 0.037380000000000024,
+        "NNET Wifi": 0.0125,
+        "NNET Abalone": 0.021559999999999913,
+        "NNET Wilt": 0.006977249999999999,
+        "NNET Landsat": 0.011455000000000007,
+        "NNET WineQualityRed": 0.023692500000000005,
+        "NNET WineQualityWhite": 0.020947500000000008,
+        "NNET PhaseGesture": 0.016774999999999984,
+        "NNET Digits": 0.010236500000000003,
+        "NNET EegEye": 0.037880000000000025,
+        "NNET Htru": 0.002162749999999998,
+        "NNET Telescope": 0.006177500000000002,
+        "NNET LetterRecognition": 0.038687499999999986,
+        "NNET Statlog": 0.0011494,
+        "NNET SensorlessDrive": 0.03200250000000002,
+        "NNET Skin": 0.0002652675,
+        "NNET DiabetesPic": 0.02826499999999993,
+        "NNET IndianLiver": 0.06540999999999997,
+        "NNET DrugConsumption": 0.029179999999999984,
+        "NNET Musk": null,
+        "NNET Image": null,
+        "NNET Frogs": 0.00677525,
+        "NNET Bankotes": 0.0,
+        "MDA Iris": 0.0583335,
+        "MDA Wine": 0.027778,
+        "MDA Parkinsons": 0.07692699999999998,
+        "MDA Thyroid": 0.025961500000000005,
+        "MDA Sonar": 0.07723,
+        "MDA Seeds": 0.04761900000000001,
+        "MDA Glass": 0.09301999999999999,
+        "MDA Weka": null,
+        "MDA Ecoli": null,
+        "MDA Leaf": null,
+        "MDA Liver": 0.057980000000000004,
+        "MDA Iono": null,
+        "MDA Wisc": 0.021428999999999997,
+        "MDA Diabetes": 0.052924999999999944,
+        "MDA Vehicle": 0.042147500000000004,
+        "MDA Vowel": 0.03787800000000001,
+        "MDA Yeast": 0.03935500000000003,
+        "MDA SteelPlates": null,
+        "MDA Wifi": 0.0075,
+        "MDA Abalone": 0.0284875,
+        "MDA Wilt": 0.008005749999999999,
+        "MDA Landsat": 0.011649999999999994,
+        "MDA WineQualityRed": 0.03184999999999999,
+        "MDA WineQualityWhite": 0.022475000000000023,
+        "MDA PhaseGesture": 0.014077500000000076,
+        "MDA Digits": 0.0031889999999999974,
+        "MDA EegEye": 0.020027500000000004,
+        "MDA Htru": 0.002798250000000002,
+        "MDA Telescope": 0.007424999999999987,
+        "MDA LetterRecognition": 0.009250000000000008,
+        "MDA Statlog": 0.005718499999999998,
+        "MDA SensorlessDrive": null,
+        "MDA Skin": 0.002734750000000001,
+        "MDA DiabetesPic": 0.05434749999999999,
+        "MDA IndianLiver": 0.05603999999999998,
+        "MDA DrugConsumption": 0.0364675000000001,
+        "MDA Musk": 0.008870500000000003,
+        "MCLUST Iris": 0.066667,
+        "MCLUST Wine": 0.02837275,
+        "MCLUST Parkinsons": 0.10257000000000001,
+        "MCLUST Thyroid": 0.049999999999999996,
+        "MCLUST Sonar": 0.09523000000000001,
+        "MCLUST Seeds": 0.047619,
+        "MCLUST Glass": null,
+        "MCLUST Weka": 0.048390000000000016,
+        "MCLUST Ecoli": 0.05827500000000002,
+        "MCLUST Leaf": null,
+        "MCLUST Liver": 0.07247,
+        "MCLUST Iono": 0.0824965,
+        "MCLUST Wisc": 0.034494250000000004,
+        "MCLUST Diabetes": 0.038472499999999965,
+        "MCLUST Vehicle": 0.04142000000000001,
+        "MCLUST Vowel": 0.05049999999999999,
+        "MCLUST Yeast": 0.02315250000000002,
+        "MCLUST SteelPlates": 0.05863499999999999,
+        "MCLUST Wifi": 0.006874999999999999,
+        "MCLUST Abalone": null,
+        "MCLUST Wilt": 0.005174350000000001,
+        "MCLUST Landsat": 0.012234999999999982,
+        "MCLUST WineQualityRed": null,
+        "MCLUST WineQualityWhite": null,
+        "MCLUST PhaseGesture": 0.014739999999999975,
+        "MCLUST Digits": 0.005573249999999998,
+        "MCLUST EegEye": 0.039055000000000006,
+        "MCLUST Htru": 0.012642500000000004,
+        "MCLUST Telescope": 0.007690000000000002,
+        "MCLUST LetterRecognition": 0.004375000000000004,
+        "MCLUST Statlog": null,
+        "MCLUST SensorlessDrive": 0.012408499999999989,
+        "MCLUST Skin": null,
+        "MCLUST DiabetesPic": 0.05000500000000002,
+        "MCLUST IndianLiver": 0.04760249999999999,
+        "MCLUST DrugConsumption": 0.041112499999999996,
+        "MCLUST Musk": 0.01644224999999999,
+        "MCLUST Image": 0.096315,
+        "MCLUST Frogs": 0.006254000000000003,
+        "MCLUST Bankotes": 0.0
+    },
+    "Time": {
+        "SVM Iris": 0.4,
+        "SVM Wine": 0.24000000000000002,
+        "SVM Parkinsons": 0.38,
+        "SVM Thyroid": 0.26,
+        "SVM Sonar": 0.79,
+        "SVM Seeds": 0.2,
+        "SVM Glass": 0.45,
+        "SVM Weka": 0.4,
+        "SVM Ecoli": 0.28,
+        "SVM Leaf": 1.5099999999999998,
+        "SVM Liver": 0.41000000000000003,
+        "SVM Iono": 0.6900000000000001,
+        "SVM Wisc": 0.56,
+        "SVM Diabetes": 1.65,
+        "SVM Vehicle": 4.030000000000001,
+        "SVM Vowel": 5.82,
+        "SVM Yeast": 11.579999999999998,
+        "SVM SteelPlates": 26.869999999999994,
+        "SVM Wifi": 3.09,
+        "SVM Abalone": 143.3,
+        "SVM Wilt": 14.36,
+        "SVM Landsat": 144.94,
+        "SVM WineQualityRed": 13.35,
+        "SVM WineQualityWhite": 145.35999999999996,
+        "SVM PhaseGesture": 1065.0300000000002,
+        "SVM Digits": 159.51,
+        "SVM EegEye": 1481.42,
+        "SVM Htru": 131.56,
+        "SVM Telescope": 952.4499999999999,
+        "SVM LetterRecognition": 1797.6699999999998,
+        "SVM Statlog": 442.93,
+        "SVM SensorlessDrive": 25960.82,
+        "SVM Skin": 6916.65,
+        "SVM DiabetesPic": 8.87,
+        "SVM IndianLiver": 1.1300000000000001,
+        "SVM DrugConsumption": 25.56,
+        "SVM Musk": 272.59000000000003,
+        "SVM Image": 32.71999999999999,
+        "SVM Frogs": 52.449999999999996,
+        "SVM Bankotes": 0.76,
+        "QDA Iris": 4.6899999999999995,
+        "QDA Wine": 0.25,
+        "QDA Parkinsons": 2.02,
+        "QDA Thyroid": 0.15000000000000002,
+        "QDA Sonar": 0.49000000000000005,
+        "QDA Seeds": 0.18,
+        "QDA Glass": null,
+        "QDA Weka": null,
+        "QDA Ecoli": null,
+        "QDA Leaf": null,
+        "QDA Liver": 0.17,
+        "QDA Iono": null,
+        "QDA Wisc": 0.22,
+        "QDA Diabetes": 0.22000000000000003,
+        "QDA Vehicle": 0.3,
+        "QDA Vowel": 0.26,
+        "QDA Yeast": null,
+        "QDA SteelPlates": null,
+        "QDA Wifi": 0.16999999999999998,
+        "QDA Abalone": null,
+        "QDA Wilt": 0.41000000000000003,
+        "QDA Landsat": 1.75,
+        "QDA WineQualityRed": 0.24,
+        "QDA WineQualityWhite": 0.54,
+        "QDA PhaseGesture": 2.5400000000000005,
+        "QDA Digits": null,
+        "QDA EegEye": 1.67,
+        "QDA Htru": 1.45,
+        "QDA Telescope": 1.59,
+        "QDA LetterRecognition": 4.89,
+        "QDA Statlog": null,
+        "QDA SensorlessDrive": 30.260000000000005,
+        "QDA Skin": 15.510000000000003,
+        "QDA DiabetesPic": null,
+        "QDA IndianLiver": 0.14,
+        "QDA DrugConsumption": 0.49,
+        "QDA Musk": 11.019999999999998,
+        "QDA Image": null,
+        "QDA Frogs": 1.05,
+        "QDA Bankotes": 0.15,
+        "LDA Iris": 0.14,
+        "LDA Wine": 0.17,
+        "LDA Parkinsons": null,
+        "LDA Thyroid": 0.11,
+        "LDA Sonar": 0.55,
+        "LDA Seeds": 0.14,
+        "LDA Glass": 0.19999999999999998,
+        "LDA Weka": 0.18999999999999997,
+        "LDA Ecoli": null,
+        "LDA Leaf": 0.25,
+        "LDA Liver": 0.14,
+        "LDA Iono": null,
+        "LDA Wisc": 0.19,
+        "LDA Diabetes": 0.25,
+        "LDA Vehicle": 0.38,
+        "LDA Vowel": 0.23,
+        "LDA Yeast": 0.28,
+        "LDA SteelPlates": 0.62,
+        "LDA Wifi": 0.25,
+        "LDA Abalone": 0.48000000000000004,
+        "LDA Wilt": 0.45999999999999996,
+        "LDA Landsat": 2.4600000000000004,
+        "LDA WineQualityRed": 0.37,
+        "LDA WineQualityWhite": 0.52,
+        "LDA PhaseGesture": 2.92,
+        "LDA Digits": 1.5899999999999999,
+        "LDA EegEye": 2.06,
+        "LDA Htru": 1.49,
+        "LDA Telescope": 1.9200000000000002,
+        "LDA LetterRecognition": 3.2200000000000006,
+        "LDA Statlog": 4.27,
+        "LDA SensorlessDrive": null,
+        "LDA Skin": 17.430000000000003,
+        "LDA DiabetesPic": 0.36000000000000004,
+        "LDA IndianLiver": 0.16999999999999998,
+        "LDA DrugConsumption": 0.4,
+        "LDA Musk": 25.309999999999995,
+        "LDA Image": null,
+        "LDA Frogs": 1.11,
+        "LDA Bankotes": 0.2,
+        "REBMIX Iris": 1.34,
+        "REBMIX Wine": 1.6500000000000001,
+        "REBMIX Parkinsons": 2.0999999999999996,
+        "REBMIX Thyroid": 1.19,
+        "REBMIX Sonar": 5.169999999999999,
+        "REBMIX Seeds": 1.5,
+        "REBMIX Glass": 1.9200000000000002,
+        "REBMIX Weka": 1.49,
+        "REBMIX Ecoli": 1.71,
+        "REBMIX Leaf": 7.630000000000001,
+        "REBMIX Liver": 1.5899999999999999,
+        "REBMIX Iono": 4.75,
+        "REBMIX Wisc": 10.709999999999999,
+        "REBMIX Diabetes": 2.9499999999999997,
+        "REBMIX Vehicle": 6.309999999999999,
+        "REBMIX Vowel": 6.16,
+        "REBMIX Yeast": 6.91,
+        "REBMIX SteelPlates": 23.479999999999997,
+        "REBMIX Wifi": 6.97,
+        "REBMIX Abalone": 17.650000000000002,
+        "REBMIX Wilt": 33.79,
+        "REBMIX Landsat": 87.19000000000001,
+        "REBMIX WineQualityRed": 6.459999999999999,
+        "REBMIX WineQualityWhite": 18.679999999999996,
+        "REBMIX PhaseGesture": 285.9,
+        "REBMIX Digits": 66.62,
+        "REBMIX EegEye": 529.69,
+        "REBMIX Htru": 132.8,
+        "REBMIX Telescope": 100.50999999999999,
+        "REBMIX LetterRecognition": 139.86,
+        "REBMIX Statlog": 789.0999999999999,
+        "REBMIX SensorlessDrive": 1096.8399999999997,
+        "REBMIX Skin": 960.7799999999999,
+        "REBMIX DiabetesPic": 7.92,
+        "REBMIX IndianLiver": 2.54,
+        "REBMIX DrugConsumption": 9.82,
+        "REBMIX Musk": 3173.6699999999996,
+        "REBMIX Image": 18.559999999999995,
+        "REBMIX Frogs": 56.88,
+        "REBMIX Bankotes": 2.4000000000000004,
+        "LOGREG Iris": 0.4,
+        "LOGREG Wine": 0.34,
+        "LOGREG Parkinsons": 0.21000000000000002,
+        "LOGREG Thyroid": 0.38,
+        "LOGREG Sonar": 0.91,
+        "LOGREG Seeds": 0.53,
+        "LOGREG Glass": 1.04,
+        "LOGREG Weka": 0.33999999999999997,
+        "LOGREG Ecoli": 0.96,
+        "LOGREG Leaf": 7.180000000000001,
+        "LOGREG Liver": 0.35000000000000003,
+        "LOGREG Iono": 0.9600000000000001,
+        "LOGREG Wisc": 0.74,
+        "LOGREG Diabetes": 0.55,
+        "LOGREG Vehicle": 3.8500000000000005,
+        "LOGREG Vowel": 6.36,
+        "LOGREG Yeast": 5.470000000000001,
+        "LOGREG SteelPlates": 31.009999999999998,
+        "LOGREG Wifi": 5.949999999999999,
+        "LOGREG Abalone": 36.21999999999999,
+        "LOGREG Wilt": 3.08,
+        "LOGREG Landsat": 82.72999999999999,
+        "LOGREG WineQualityRed": 3.729999999999999,
+        "LOGREG WineQualityWhite": 16.810000000000002,
+        "LOGREG PhaseGesture": 38.059999999999995,
+        "LOGREG Digits": 154.37000000000003,
+        "LOGREG EegEye": 22.539999999999996,
+        "LOGREG Htru": 15.48,
+        "LOGREG Telescope": 11.5,
+        "LOGREG LetterRecognition": 572.3799999999999,
+        "LOGREG Statlog": 242.29999999999998,
+        "LOGREG SensorlessDrive": 1562.1899999999998,
+        "LOGREG Skin": 132.79999999999998,
+        "LOGREG DiabetesPic": 1.61,
+        "LOGREG IndianLiver": 0.56,
+        "LOGREG DrugConsumption": 10.68,
+        "LOGREG Musk": 109.97999999999999,
+        "LOGREG Image": 17.76,
+        "LOGREG Frogs": 19.320000000000004,
+        "LOGREG Bankotes": 0.9100000000000001,
+        "REBMVNORM Iris": 1.19,
+        "REBMVNORM Wine": 1.1500000000000001,
+        "REBMVNORM Parkinsons": 1.3900000000000001,
+        "REBMVNORM Thyroid": 0.9100000000000001,
+        "REBMVNORM Sonar": 6.4399999999999995,
+        "REBMVNORM Seeds": 0.94,
+        "REBMVNORM Glass": 1.3699999999999999,
+        "REBMVNORM Weka": 0.88,
+        "REBMVNORM Ecoli": 0.79,
+        "REBMVNORM Leaf": 6.659999999999998,
+        "REBMVNORM Liver": 0.8500000000000001,
+        "REBMVNORM Iono": 3.5900000000000003,
+        "REBMVNORM Wisc": 4.6499999999999995,
+        "REBMVNORM Diabetes": 1.56,
+        "REBMVNORM Vehicle": 3.4900000000000007,
+        "REBMVNORM Vowel": 3.26,
+        "REBMVNORM Yeast": 3.4899999999999998,
+        "REBMVNORM SteelPlates": 14.419999999999998,
+        "REBMVNORM Wifi": 3.06,
+        "REBMVNORM Abalone": 8.12,
+        "REBMVNORM Wilt": 19.32,
+        "REBMVNORM Landsat": 60.60000000000001,
+        "REBMVNORM WineQualityRed": 3.2000000000000006,
+        "REBMVNORM WineQualityWhite": 8.379999999999999,
+        "REBMVNORM PhaseGesture": 199.14000000000004,
+        "REBMVNORM Digits": 28.699999999999996,
+        "REBMVNORM EegEye": 158.60000000000002,
+        "REBMVNORM Htru": 75.08,
+        "REBMVNORM Telescope": 65.37999999999998,
+        "REBMVNORM LetterRecognition": 58.93,
+        "REBMVNORM Statlog": 264.1799999999999,
+        "REBMVNORM SensorlessDrive": 1164.52,
+        "REBMVNORM Skin": 411.19,
+        "REBMVNORM DiabetesPic": 4.52,
+        "REBMVNORM IndianLiver": 1.39,
+        "REBMVNORM DrugConsumption": 4.5600000000000005,
+        "REBMVNORM Musk": 10580.450000000004,
+        "REBMVNORM Image": 8.14,
+        "REBMVNORM Frogs": 30.709999999999994,
+        "REBMVNORM Bankotes": 1.3699999999999999,
+        "NNET Iris": 1.02,
+        "NNET Wine": 1.06,
+        "NNET Parkinsons": 2.2600000000000002,
+        "NNET Thyroid": 0.8200000000000001,
+        "NNET Sonar": 5.94,
+        "NNET Seeds": 1.19,
+        "NNET Glass": 2.82,
+        "NNET Weka": 2.6199999999999997,
+        "NNET Ecoli": 3.37,
+        "NNET Leaf": 14.150000000000002,
+        "NNET Liver": 2.7199999999999998,
+        "NNET Iono": null,
+        "NNET Wisc": 4.54,
+        "NNET Diabetes": 6.54,
+        "NNET Vehicle": 11.82,
+        "NNET Vowel": 18.73,
+        "NNET Yeast": 23.83,
+        "NNET SteelPlates": 42.67,
+        "NNET Wifi": 17.89,
+        "NNET Abalone": 120.22000000000001,
+        "NNET Wilt": 33.86000000000001,
+        "NNET Landsat": 151.14000000000001,
+        "NNET WineQualityRed": 19.57,
+        "NNET WineQualityWhite": 72.63,
+        "NNET PhaseGesture": 214.61,
+        "NNET Digits": 240.60999999999999,
+        "NNET EegEye": 180.67,
+        "NNET Htru": 154.01,
+        "NNET Telescope": 165.24000000000004,
+        "NNET LetterRecognition": 551.9599999999999,
+        "NNET Statlog": 410.28000000000003,
+        "NNET SensorlessDrive": 1494.78,
+        "NNET Skin": 1392.8899999999999,
+        "NNET DiabetesPic": 10.209999999999999,
+        "NNET IndianLiver": 3.27,
+        "NNET DrugConsumption": 20.300000000000004,
+        "NNET Musk": null,
+        "NNET Image": null,
+        "NNET Frogs": 71.3,
+        "NNET Bankotes": 3.83,
+        "MDA Iris": 9.21,
+        "MDA Wine": 10.43,
+        "MDA Parkinsons": 9.309999999999999,
+        "MDA Thyroid": 9.18,
+        "MDA Sonar": 14.680000000000001,
+        "MDA Seeds": 10.0,
+        "MDA Glass": 16.479999999999997,
+        "MDA Weka": null,
+        "MDA Ecoli": null,
+        "MDA Leaf": null,
+        "MDA Liver": 8.739999999999998,
+        "MDA Iono": null,
+        "MDA Wisc": 13.930000000000001,
+        "MDA Diabetes": 12.25,
+        "MDA Vehicle": 26.61,
+        "MDA Vowel": 79.54999999999998,
+        "MDA Yeast": 67.67999999999999,
+        "MDA SteelPlates": null,
+        "MDA Wifi": 38.85999999999999,
+        "MDA Abalone": 630.03,
+        "MDA Wilt": 38.65,
+        "MDA Landsat": 328.31,
+        "MDA WineQualityRed": 31.489999999999995,
+        "MDA WineQualityWhite": 109.44,
+        "MDA PhaseGesture": 396.87999999999994,
+        "MDA Digits": 1183.2500000000002,
+        "MDA EegEye": 188.18000000000004,
+        "MDA Htru": 176.27,
+        "MDA Telescope": 203.21,
+        "MDA LetterRecognition": 13636.840000000002,
+        "MDA Statlog": 1972.51,
+        "MDA SensorlessDrive": null,
+        "MDA Skin": 2787.38,
+        "MDA DiabetesPic": 19.62,
+        "MDA IndianLiver": 11.82,
+        "MDA DrugConsumption": 62.669999999999995,
+        "MDA Musk": 492.89,
+        "MCLUST Iris": 31.06,
+        "MCLUST Wine": 353.37,
+        "MCLUST Parkinsons": 15.89,
+        "MCLUST Thyroid": 144.45,
+        "MCLUST Sonar": 169.18000000000004,
+        "MCLUST Seeds": 516.14,
+        "MCLUST Glass": null,
+        "MCLUST Weka": 15.429999999999998,
+        "MCLUST Ecoli": 176.39000000000001,
+        "MCLUST Leaf": null,
+        "MCLUST Liver": 41.42999999999999,
+        "MCLUST Iono": 196.49,
+        "MCLUST Wisc": 106.51999999999997,
+        "MCLUST Diabetes": 318.36,
+        "MCLUST Vehicle": 6964.739999999998,
+        "MCLUST Vowel": 171.93,
+        "MCLUST Yeast": 106.84,
+        "MCLUST SteelPlates": 87.22000000000001,
+        "MCLUST Wifi": 241.17000000000002,
+        "MCLUST Abalone": null,
+        "MCLUST Wilt": 351.98,
+        "MCLUST Landsat": 43532.85999999999,
+        "MCLUST WineQualityRed": null,
+        "MCLUST WineQualityWhite": null,
+        "MCLUST PhaseGesture": 21848.17,
+        "MCLUST Digits": 3022.2000000000003,
+        "MCLUST EegEye": 8499.46,
+        "MCLUST Htru": 2290.2400000000007,
+        "MCLUST Telescope": 1666.02,
+        "MCLUST LetterRecognition": 4879.219999999999,
+        "MCLUST Statlog": null,
+        "MCLUST SensorlessDrive": 11976.960000000003,
+        "MCLUST Skin": null,
+        "MCLUST DiabetesPic": 42.85,
+        "MCLUST IndianLiver": 428.16999999999996,
+        "MCLUST DrugConsumption": 5443.890000000001,
+        "MCLUST Musk": 6701.910000000001,
+        "MCLUST Image": 123.07000000000001,
+        "MCLUST Frogs": 4877.660000000002,
+        "MCLUST Bankotes": 64.74999999999999
+    },
+    "CI": {
+        "SVM Iris": [
+            0.0,
+            0.1
+        ],
+        "SVM Wine": [
+            0.0,
+            0.04948437499999996
+        ],
+        "SVM Parkinsons": [
+            0.05128200000000001,
+            0.20513
+        ],
+        "SVM Thyroid": [
+            0.0,
+            0.09679167499999995
+        ],
+        "SVM Sonar": [
+            0.059233050000000044,
+            0.28571
+        ],
+        "SVM Seeds": [
+            0.0,
+            0.16131274999999995
+        ],
+        "SVM Glass": [
+            0.18605,
+            0.4186000000000001
+        ],
+        "SVM Weka": [
+            0.096774,
+            0.19355
+        ],
+        "SVM Ecoli": [
+            0.06473750000000002,
+            0.19419124999999998
+        ],
+        "SVM Leaf": [
+            0.32683975,
+            0.55882
+        ],
+        "SVM Liver": [
+            0.17391,
+            0.31884
+        ],
+        "SVM Iono": [
+            0.02825945,
+            0.12395424999999999
+        ],
+        "SVM Wisc": [
+            0.008750097500000007,
+            0.06464405000000001
+        ],
+        "SVM Diabetes": [
+            0.18447924999999998,
+            0.30372975
+        ],
+        "SVM Vehicle": [
+            0.18343,
+            0.28594624999999996
+        ],
+        "SVM Vowel": [
+            0.026389250000000006,
+            0.10606
+        ],
+        "SVM Yeast": [
+            0.35811,
+            0.444429
+        ],
+        "SVM SteelPlates": [
+            0.23711,
+            0.31509075
+        ],
+        "SVM Wifi": [
+            0.01,
+            0.03
+        ],
+        "SVM Abalone": [
+            0.698761,
+            0.75544475
+        ],
+        "SVM Wilt": [
+            0.012399925,
+            0.028693575
+        ],
+        "SVM Landsat": [
+            0.08574195000000001,
+            0.11326675
+        ],
+        "SVM WineQualityRed": [
+            0.32237550000000004,
+            0.4270735
+        ],
+        "SVM WineQualityWhite": [
+            0.40012425,
+            0.455157
+        ],
+        "SVM PhaseGesture": [
+            0.440342,
+            0.48400350000000003
+        ],
+        "SVM Digits": [
+            0.002023930000000001,
+            0.008890362499999999
+        ],
+        "SVM EegEye": [
+            0.22417250000000002,
+            0.3783515
+        ],
+        "SVM Htru": [
+            0.018156,
+            0.025015799999999998
+        ],
+        "SVM Telescope": [
+            0.12182925,
+            0.141016
+        ],
+        "SVM LetterRecognition": [
+            0.047593750000000004,
+            0.0615
+        ],
+        "SVM Statlog": [
+            0.0016092,
+            0.0035632
+        ],
+        "SVM SensorlessDrive": [
+            0.02745035,
+            0.0314754
+        ],
+        "SVM Skin": [
+            0.0014078,
+            0.0020719975
+        ],
+        "SVM DiabetesPic": [
+            0.23987025,
+            0.34250125
+        ],
+        "SVM IndianLiver": [
+            0.21890875,
+            0.34289050000000004
+        ],
+        "SVM DrugConsumption": [
+            0.5396547500000001,
+            0.62745525
+        ],
+        "SVM Musk": [
+            0.020657225,
+            0.039438625000000005
+        ],
+        "SVM Image": [
+            0.35162425,
+            0.477864
+        ],
+        "SVM Frogs": [
+            0.0051772050000000016,
+            0.01443685
+        ],
+        "SVM Bankotes": [
+            0.0,
+            0.0
+        ],
+        "QDA Iris": [
+            0.0,
+            0.066667
+        ],
+        "QDA Wine": [
+            0.0,
+            0.028571
+        ],
+        "QDA Parkinsons": [
+            0.05128200000000001,
+            0.22500099999999995
+        ],
+        "QDA Thyroid": [
+            0.0,
+            0.076490325
+        ],
+        "QDA Sonar": [
+            0.14286,
+            0.45238
+        ],
+        "QDA Seeds": [
+            0.0,
+            0.11905000000000002
+        ],
+        "QDA Glass": null,
+        "QDA Weka": null,
+        "QDA Ecoli": null,
+        "QDA Leaf": null,
+        "QDA Liver": [
+            0.18841,
+            0.34783
+        ],
+        "QDA Iono": null,
+        "QDA Wisc": [
+            0.021429,
+            0.09138864999999999
+        ],
+        "QDA Diabetes": [
+            0.18205675000000002,
+            0.313271
+        ],
+        "QDA Vehicle": [
+            0.101922,
+            0.205768
+        ],
+        "QDA Vowel": [
+            0.09709625000000001,
+            0.19128874999999998
+        ],
+        "QDA Yeast": null,
+        "QDA SteelPlates": null,
+        "QDA Wifi": [
+            0.0061250000000000054,
+            0.035
+        ],
+        "QDA Abalone": null,
+        "QDA Wilt": [
+            0.011596425000000002,
+            0.030759574999999997
+        ],
+        "QDA Landsat": [
+            0.1291555,
+            0.1655
+        ],
+        "QDA WineQualityRed": [
+            0.38194000000000006,
+            0.481929
+        ],
+        "QDA WineQualityWhite": [
+            0.489923,
+            0.55312975
+        ],
+        "QDA PhaseGesture": [
+            0.5178455000000001,
+            0.5642809999999999
+        ],
+        "QDA Digits": null,
+        "QDA EegEye": [
+            0.2910722500000001,
+            0.5349735
+        ],
+        "QDA Htru": [
+            0.028492000000000003,
+            0.038144700000000004
+        ],
+        "QDA Telescope": [
+            0.20137,
+            0.22764675
+        ],
+        "QDA LetterRecognition": [
+            0.10525,
+            0.12435624999999999
+        ],
+        "QDA Statlog": null,
+        "QDA SensorlessDrive": [
+            0.12801325000000002,
+            0.20097725
+        ],
+        "QDA Skin": [
+            0.015174125,
+            0.0176076
+        ],
+        "QDA DiabetesPic": null,
+        "QDA IndianLiver": [
+            0.3592685,
+            0.52586
+        ],
+        "QDA DrugConsumption": [
+            0.6106762499999999,
+            0.69701375
+        ],
+        "QDA Musk": [
+            0.029297875,
+            0.046675999999999995
+        ],
+        "QDA Image": null,
+        "QDA Frogs": [
+            0.028266125000000003,
+            0.04709862499999999
+        ],
+        "QDA Bankotes": [
+            0.0008181900000000036,
+            0.028375749999999995
+        ],
+        "LDA Iris": [
+            0.0,
+            0.066667
+        ],
+        "LDA Wine": [
+            0.0,
+            0.05555600000000001
+        ],
+        "LDA Parkinsons": null,
+        "LDA Thyroid": [
+            0.025144225,
+            0.19437499999999996
+        ],
+        "LDA Sonar": [
+            0.143643,
+            0.38095
+        ],
+        "LDA Seeds": [
+            0.0,
+            0.08988097499999997
+        ],
+        "LDA Glass": [
+            0.28056400000000004,
+            0.48837
+        ],
+        "LDA Weka": [
+            0.1129,
+            0.25080374999999994
+        ],
+        "LDA Ecoli": null,
+        "LDA Leaf": [
+            0.13565975000000002,
+            0.30551249999999996
+        ],
+        "LDA Liver": [
+            0.16268025000000003,
+            0.33006975
+        ],
+        "LDA Iono": null,
+        "LDA Wisc": [
+            0.021429,
+            0.069925775
+        ],
+        "LDA Diabetes": [
+            0.1610135,
+            0.2907475
+        ],
+        "LDA Vehicle": [
+            0.16967375,
+            0.265919
+        ],
+        "LDA Vowel": [
+            0.34848,
+            0.4775275
+        ],
+        "LDA Yeast": [
+            0.378668,
+            0.44856175
+        ],
+        "LDA SteelPlates": [
+            0.29181825,
+            0.38311925
+        ],
+        "LDA Wifi": [
+            0.015,
+            0.04443749999999999
+        ],
+        "LDA Abalone": [
+            0.70657225,
+            0.75865475
+        ],
+        "LDA Wilt": [
+            0.045687425000000004,
+            0.068982575
+        ],
+        "LDA Landsat": [
+            0.14238825,
+            0.18103999999999998
+        ],
+        "LDA WineQualityRed": [
+            0.34784775,
+            0.44411399999999995
+        ],
+        "LDA WineQualityWhite": [
+            0.4410299999999999,
+            0.49179
+        ],
+        "LDA PhaseGesture": [
+            0.526736,
+            0.5652142499999999
+        ],
+        "LDA Digits": [
+            0.10894374999999999,
+            0.14046625
+        ],
+        "LDA EegEye": [
+            0.34702500000000003,
+            0.37283
+        ],
+        "LDA Htru": [
+            0.021638425000000003,
+            0.029141449999999996
+        ],
+        "LDA Telescope": [
+            0.20400325000000002,
+            0.22669225
+        ],
+        "LDA LetterRecognition": [
+            0.28891875,
+            0.31035625
+        ],
+        "LDA Statlog": [
+            0.049387625,
+            0.0642875
+        ],
+        "LDA SensorlessDrive": null,
+        "LDA Skin": [
+            0.06682239999999999,
+            0.06997615
+        ],
+        "LDA DiabetesPic": [
+            0.235527,
+            0.33956725
+        ],
+        "LDA IndianLiver": [
+            0.22457875000000002,
+            0.3601305
+        ],
+        "LDA DrugConsumption": [
+            0.55497625,
+            0.6374690000000001
+        ],
+        "LDA Musk": [
+            0.055313074999999996,
+            0.077621775
+        ],
+        "LDA Image": null,
+        "LDA Frogs": [
+            0.06633075,
+            0.085476
+        ],
+        "LDA Bankotes": [
+            0.014544999999999999,
+            0.0364663
+        ],
+        "REBMIX Iris": [
+            0.01854192500000001,
+            0.058333
+        ],
+        "REBMIX Wine": [
+            0.006993,
+            0.021127
+        ],
+        "REBMIX Parkinsons": [
+            0.2528845,
+            0.33188775000000004
+        ],
+        "REBMIX Thyroid": [
+            0.0063291,
+            0.025478
+        ],
+        "REBMIX Sonar": [
+            0.24096,
+            0.2998455
+        ],
+        "REBMIX Seeds": [
+            0.025149200000000003,
+            0.10119
+        ],
+        "REBMIX Glass": [
+            0.34049625,
+            0.5380185
+        ],
+        "REBMIX Weka": [
+            0.12993675,
+            0.23296324999999998
+        ],
+        "REBMIX Ecoli": [
+            0.08490365000000001,
+            0.139618
+        ],
+        "REBMIX Leaf": [
+            0.074356325,
+            0.15275624999999998
+        ],
+        "REBMIX Liver": [
+            0.21095675,
+            0.2636755
+        ],
+        "REBMIX Iono": [
+            0.225001,
+            0.35685425000000004
+        ],
+        "REBMIX Wisc": [
+            0.030800700000000004,
+            0.048301
+        ],
+        "REBMIX Diabetes": [
+            0.22504349999999998,
+            0.25707525
+        ],
+        "REBMIX Vehicle": [
+            0.38504675,
+            0.5421
+        ],
+        "REBMIX Vowel": [
+            0.19024275,
+            0.2648665
+        ],
+        "REBMIX Yeast": [
+            0.5537445000000001,
+            0.7582204999999999
+        ],
+        "REBMIX SteelPlates": [
+            0.34100250000000004,
+            0.38948225000000003
+        ],
+        "REBMIX Wifi": [
+            0.01375,
+            0.020625
+        ],
+        "REBMIX Abalone": [
+            0.7323525,
+            0.7623825
+        ],
+        "REBMIX Wilt": [
+            0.024025,
+            0.10600434999999997
+        ],
+        "REBMIX Landsat": [
+            0.15703775,
+            0.24926424999999997
+        ],
+        "REBMIX WineQualityRed": [
+            0.41396325,
+            0.45362325
+        ],
+        "REBMIX WineQualityWhite": [
+            0.54102475,
+            0.5615405
+        ],
+        "REBMIX PhaseGesture": [
+            0.53839525,
+            0.70040725
+        ],
+        "REBMIX Digits": [
+            0.16923375000000002,
+            0.19560550000000002
+        ],
+        "REBMIX EegEye": [
+            0.418467,
+            0.5499575
+        ],
+        "REBMIX Htru": [
+            0.039655075,
+            0.081163225
+        ],
+        "REBMIX Telescope": [
+            0.204266,
+            0.23693925
+        ],
+        "REBMIX LetterRecognition": [
+            0.3531455,
+            0.36279825
+        ],
+        "REBMIX Statlog": [
+            0.045190375000000005,
+            0.12996749999999999
+        ],
+        "REBMIX SensorlessDrive": [
+            0.288062,
+            0.37073475
+        ],
+        "REBMIX Skin": [
+            0.010601900000000001,
+            0.0328817
+        ],
+        "REBMIX DiabetesPic": [
+            0.41836874999999996,
+            0.52068175
+        ],
+        "REBMIX IndianLiver": [
+            0.358314,
+            0.4722005
+        ],
+        "REBMIX DrugConsumption": [
+            0.59550325,
+            0.6455697499999999
+        ],
+        "REBMIX Musk": [
+            0.16932825,
+            0.17599700000000001
+        ],
+        "REBMIX Image": [
+            0.11028425,
+            0.1692485
+        ],
+        "REBMIX Frogs": [
+            0.11452825,
+            0.14700725
+        ],
+        "REBMIX Bankotes": [
+            0.007399805000000004,
+            0.05093444999999999
+        ],
+        "LOGREG Iris": [
+            0.0,
+            0.1
+        ],
+        "LOGREG Wine": [
+            0.0,
+            0.13889
+        ],
+        "LOGREG Parkinsons": [
+            0.076923,
+            0.2705119999999999
+        ],
+        "LOGREG Thyroid": [
+            0.0,
+            0.09480767499999997
+        ],
+        "LOGREG Sonar": [
+            0.14634,
+            0.39940275
+        ],
+        "LOGREG Seeds": [
+            0.0,
+            0.09523800000000002
+        ],
+        "LOGREG Glass": [
+            0.25718025,
+            0.48837
+        ],
+        "LOGREG Weka": [
+            0.08427402500000002,
+            0.22581
+        ],
+        "LOGREG Ecoli": [
+            0.060606,
+            0.18462
+        ],
+        "LOGREG Leaf": [
+            0.16506975000000002,
+            0.40514275
+        ],
+        "LOGREG Liver": [
+            0.1771725,
+            0.34130724999999995
+        ],
+        "LOGREG Iono": [
+            0.071429,
+            0.22467749999999997
+        ],
+        "LOGREG Wisc": [
+            0.01589317500000001,
+            0.069821825
+        ],
+        "LOGREG Diabetes": [
+            0.166082,
+            0.28571
+        ],
+        "LOGREG Vehicle": [
+            0.16568,
+            0.253108
+        ],
+        "LOGREG Vowel": [
+            0.27273,
+            0.38548125
+        ],
+        "LOGREG Yeast": [
+            0.3690005,
+            0.45118125
+        ],
+        "LOGREG SteelPlates": [
+            0.27835,
+            0.38723625
+        ],
+        "LOGREG Wifi": [
+            0.0125,
+            0.035
+        ],
+        "LOGREG Abalone": [
+            0.696901,
+            0.75192
+        ],
+        "LOGREG Wilt": [
+            0.024798849999999997,
+            0.04108957499999999
+        ],
+        "LOGREG Landsat": [
+            0.15048425,
+            0.19796450000000002
+        ],
+        "LOGREG WineQualityRed": [
+            0.34784775,
+            0.44514449999999994
+        ],
+        "LOGREG WineQualityWhite": [
+            0.43079674999999995,
+            0.48665
+        ],
+        "LOGREG PhaseGesture": [
+            0.5066719999999999,
+            0.545353
+        ],
+        "LOGREG Digits": [
+            0.061521375,
+            0.11616199999999999
+        ],
+        "LOGREG EegEye": [
+            0.34550575,
+            0.37664349999999996
+        ],
+        "LOGREG Htru": [
+            0.017382125,
+            0.023748425000000004
+        ],
+        "LOGREG Telescope": [
+            0.19926,
+            0.2204645
+        ],
+        "LOGREG LetterRecognition": [
+            0.27098125,
+            0.31235624999999995
+        ],
+        "LOGREG Statlog": [
+            0.02878775,
+            0.035836124999999996
+        ],
+        "LOGREG SensorlessDrive": [
+            0.4132395,
+            0.5009097499999999
+        ],
+        "LOGREG Skin": [
+            0.079092275,
+            0.08346309999999998
+        ],
+        "LOGREG DiabetesPic": [
+            0.20030450000000002,
+            0.32076125
+        ],
+        "LOGREG IndianLiver": [
+            0.23276,
+            0.33427049999999997
+        ],
+        "LOGREG DrugConsumption": [
+            0.5496662499999999,
+            0.6283165
+        ],
+        "LOGREG Musk": [
+            0.06376307499999999,
+            0.095262225
+        ],
+        "LOGREG Image": [
+            0.033442025,
+            0.064935
+        ],
+        "LOGREG Frogs": [
+            0.0492705,
+            0.069336625
+        ],
+        "LOGREG Bankotes": [
+            0.0,
+            0.021898
+        ],
+        "REBMVNORM Iris": [
+            0.0083333,
+            0.025
+        ],
+        "REBMVNORM Wine": [
+            0.0,
+            0.0070423
+        ],
+        "REBMVNORM Parkinsons": [
+            0.11682225,
+            0.3432655
+        ],
+        "REBMVNORM Thyroid": [
+            0.007784335000000006,
+            0.031847
+        ],
+        "REBMVNORM Sonar": [
+            0.0,
+            0.16324974999999997
+        ],
+        "REBMVNORM Seeds": [
+            0.013244200000000005,
+            0.04761900000000001
+        ],
+        "REBMVNORM Glass": [
+            0.27616625,
+            0.40936
+        ],
+        "REBMVNORM Weka": [
+            0.15816675000000002,
+            0.19667325
+        ],
+        "REBMVNORM Ecoli": [
+            0.08046,
+            0.1145
+        ],
+        "REBMVNORM Leaf": [
+            0.14136375,
+            0.315352
+        ],
+        "REBMVNORM Liver": [
+            0.21820450000000002,
+            0.26929424999999996
+        ],
+        "REBMVNORM Iono": [
+            0.032828775000000004,
+            0.078508225
+        ],
+        "REBMVNORM Wisc": [
+            0.035778,
+            0.050068975
+        ],
+        "REBMVNORM Diabetes": [
+            0.22023674999999998,
+            0.24878
+        ],
+        "REBMVNORM Vehicle": [
+            0.137703,
+            0.17740024999999998
+        ],
+        "REBMVNORM Vowel": [
+            0.061869,
+            0.084027875
+        ],
+        "REBMVNORM Yeast": [
+            0.48705924999999994,
+            0.60690475
+        ],
+        "REBMVNORM SteelPlates": [
+            0.51349025,
+            0.6695727499999999
+        ],
+        "REBMVNORM Wifi": [
+            0.014515625,
+            0.021734375
+        ],
+        "REBMVNORM Abalone": [
+            0.7407225,
+            0.7722285
+        ],
+        "REBMVNORM Wilt": [
+            0.020977275,
+            0.05933307499999999
+        ],
+        "REBMVNORM Landsat": [
+            0.11707050000000001,
+            0.130034
+        ],
+        "REBMVNORM WineQualityRed": [
+            0.38425,
+            0.41419649999999997
+        ],
+        "REBMVNORM WineQualityWhite": [
+            0.483605,
+            0.5063095
+        ],
+        "REBMVNORM PhaseGesture": [
+            0.539756,
+            0.55038025
+        ],
+        "REBMVNORM Digits": [
+            0.0420571,
+            0.092313225
+        ],
+        "REBMVNORM EegEye": [
+            0.44636775000000006,
+            0.5588975
+        ],
+        "REBMVNORM Htru": [
+            0.022489300000000004,
+            0.034716674999999995
+        ],
+        "REBMVNORM Telescope": [
+            0.19672825,
+            0.22462300000000002
+        ],
+        "REBMVNORM LetterRecognition": [
+            0.11088574999999999,
+            0.11650374999999999
+        ],
+        "REBMVNORM Statlog": [
+            0.0263544,
+            0.050021424999999994
+        ],
+        "REBMVNORM SensorlessDrive": [
+            0.6163057500000001,
+            0.802897
+        ],
+        "REBMVNORM Skin": [
+            0.0057954925,
+            0.015870625
+        ],
+        "REBMVNORM DiabetesPic": [
+            0.42695525,
+            0.46363
+        ],
+        "REBMVNORM IndianLiver": [
+            0.29871250000000005,
+            0.46652
+        ],
+        "REBMVNORM DrugConsumption": [
+            0.54273925,
+            0.5892712499999999
+        ],
+        "REBMVNORM Musk": [
+            0.0201669,
+            0.03321582499999999
+        ],
+        "REBMVNORM Image": [
+            0.155453,
+            0.2650285
+        ],
+        "REBMVNORM Frogs": [
+            0.03443815,
+            0.041747875
+        ],
+        "REBMVNORM Bankotes": [
+            0.0004102200000000018,
+            0.021668525
+        ],
+        "NNET Iris": [
+            0.0,
+            0.12583074999999996
+        ],
+        "NNET Wine": [
+            0.0,
+            0.08333299999999999
+        ],
+        "NNET Parkinsons": [
+            0.025641000000000004,
+            0.17949
+        ],
+        "NNET Thyroid": [
+            0.0,
+            0.09635899999999994
+        ],
+        "NNET Sonar": [
+            0.10059570000000004,
+            0.33427349999999995
+        ],
+        "NNET Seeds": [
+            0.0,
+            0.11905000000000002
+        ],
+        "NNET Glass": [
+            0.21453350000000004,
+            0.48837
+        ],
+        "NNET Weka": [
+            0.1129,
+            0.28669075
+        ],
+        "NNET Ecoli": [
+            0.10642675,
+            0.29131324999999997
+        ],
+        "NNET Leaf": [
+            0.27941,
+            0.45588
+        ],
+        "NNET Liver": [
+            0.18841,
+            0.4025375
+        ],
+        "NNET Iono": null,
+        "NNET Wisc": [
+            0.023035950000000006,
+            0.07900965
+        ],
+        "NNET Diabetes": [
+            0.21062150000000002,
+            0.36109375
+        ],
+        "NNET Vehicle": [
+            0.144674,
+            0.278732
+        ],
+        "NNET Vowel": [
+            0.12853250000000002,
+            0.28952125
+        ],
+        "NNET Yeast": [
+            0.35853025,
+            0.436957
+        ],
+        "NNET SteelPlates": [
+            0.2660405,
+            0.35219
+        ],
+        "NNET Wifi": [
+            0.013062500000000003,
+            0.041374999999999995
+        ],
+        "NNET Abalone": [
+            0.69230675,
+            0.7458
+        ],
+        "NNET Wilt": [
+            0.0056301725000000025,
+            0.059684575
+        ],
+        "NNET Landsat": [
+            0.106021,
+            0.1350245
+        ],
+        "NNET WineQualityRed": [
+            0.34609875,
+            0.44760900000000003
+        ],
+        "NNET WineQualityWhite": [
+            0.42143474999999997,
+            0.4726985
+        ],
+        "NNET PhaseGesture": [
+            0.469886,
+            0.519624
+        ],
+        "NNET Digits": [
+            0.0163728,
+            0.054987724999999994
+        ],
+        "NNET EegEye": [
+            0.35259725,
+            0.44849125
+        ],
+        "NNET Htru": [
+            0.017039,
+            0.025145425
+        ],
+        "NNET Telescope": [
+            0.12049325,
+            0.15349924999999998
+        ],
+        "NNET LetterRecognition": [
+            0.26120625,
+            0.37817499999999993
+        ],
+        "NNET Statlog": [
+            0.0012902525000000001,
+            0.0048620574999999975
+        ],
+        "NNET SensorlessDrive": [
+            0.08203902499999999,
+            0.182718
+        ],
+        "NNET Skin": [
+            0.00057588775,
+            0.0014077999999999999
+        ],
+        "NNET DiabetesPic": [
+            0.21239225,
+            0.3153495
+        ],
+        "NNET IndianLiver": [
+            0.24525900000000003,
+            0.39461050000000003
+        ],
+        "NNET DrugConsumption": [
+            0.558821,
+            0.6539775
+        ],
+        "NNET Musk": null,
+        "NNET Image": null,
+        "NNET Frogs": [
+            0.016834375,
+            0.040914124999999996
+        ],
+        "NNET Bankotes": [
+            0.0,
+            0.0036466299999999997
+        ],
+        "MDA Iris": [
+            0.0,
+            0.066667
+        ],
+        "MDA Wine": [
+            0.0,
+            0.05555600000000001
+        ],
+        "MDA Parkinsons": [
+            0.025641000000000004,
+            0.20513
+        ],
+        "MDA Thyroid": [
+            0.0,
+            0.10198399999999999
+        ],
+        "MDA Sonar": [
+            0.09576067500000002,
+            0.353612
+        ],
+        "MDA Seeds": [
+            0.0053572500000000235,
+            0.09523800000000002
+        ],
+        "MDA Glass": [
+            0.21453350000000004,
+            0.47790524999999995
+        ],
+        "MDA Weka": null,
+        "MDA Ecoli": null,
+        "MDA Leaf": null,
+        "MDA Liver": [
+            0.19167025000000001,
+            0.35905975
+        ],
+        "MDA Iono": null,
+        "MDA Wisc": [
+            0.021429,
+            0.069925775
+        ],
+        "MDA Diabetes": [
+            0.19608,
+            0.30372975
+        ],
+        "MDA Vehicle": [
+            0.13793825,
+            0.24127025
+        ],
+        "MDA Vowel": [
+            0.04154047500000001,
+            0.1340875
+        ],
+        "MDA Yeast": [
+            0.379901,
+            0.47007175
+        ],
+        "MDA SteelPlates": null,
+        "MDA Wifi": [
+            0.01,
+            0.033874999999999995
+        ],
+        "MDA Abalone": [
+            0.7124235000000001,
+            0.77050075
+        ],
+        "MDA Wilt": [
+            0.025826,
+            0.048889724999999995
+        ],
+        "MDA Landsat": [
+            0.0931623,
+            0.12647450000000002
+        ],
+        "MDA WineQualityRed": [
+            0.36377550000000003,
+            0.45921524999999996
+        ],
+        "MDA WineQualityWhite": [
+            0.44205,
+            0.49337875
+        ],
+        "MDA PhaseGesture": [
+            0.51899,
+            0.55021575
+        ],
+        "MDA Digits": [
+            0.011931375,
+            0.021883499999999997
+        ],
+        "MDA EegEye": [
+            0.19526725,
+            0.24348925
+        ],
+        "MDA Htru": [
+            0.017665775,
+            0.025169024999999998
+        ],
+        "MDA Telescope": [
+            0.175351,
+            0.195463
+        ],
+        "MDA LetterRecognition": [
+            0.083675,
+            0.11160625
+        ],
+        "MDA Statlog": [
+            0.0170779,
+            0.028743849999999998
+        ],
+        "MDA SensorlessDrive": null,
+        "MDA Skin": [
+            0.014448349999999999,
+            0.02088105
+        ],
+        "MDA DiabetesPic": [
+            0.23595475000000002,
+            0.37834175
+        ],
+        "MDA IndianLiver": [
+            0.24138,
+            0.35151049999999995
+        ],
+        "MDA DrugConsumption": [
+            0.5629284999999999,
+            0.66545425
+        ],
+        "MDA Musk": [
+            0.0531714,
+            0.07961099999999999
+        ],
+        "MCLUST Iris": [
+            0.0,
+            0.15916849999999996
+        ],
+        "MCLUST Wine": [
+            0.0,
+            0.057143
+        ],
+        "MCLUST Parkinsons": [
+            0.05705122500000003,
+            0.30769
+        ],
+        "MCLUST Thyroid": [
+            0.0,
+            0.22384674999999996
+        ],
+        "MCLUST Sonar": [
+            0.14286,
+            0.43666875
+        ],
+        "MCLUST Seeds": [
+            0.023809999999999998,
+            0.13750274999999995
+        ],
+        "MCLUST Glass": null,
+        "MCLUST Weka": [
+            0.11652925000000003,
+            0.26693374999999997
+        ],
+        "MCLUST Ecoli": [
+            0.09540220000000002,
+            0.27345949999999997
+        ],
+        "MCLUST Leaf": null,
+        "MCLUST Liver": [
+            0.19167025000000001,
+            0.34783
+        ],
+        "MCLUST Iono": [
+            0.045890225000000014,
+            0.22467749999999997
+        ],
+        "MCLUST Wisc": [
+            0.023035950000000006,
+            0.11677024999999996
+        ],
+        "MCLUST Diabetes": [
+            0.2666215,
+            0.369203
+        ],
+        "MCLUST Vehicle": [
+            0.11834,
+            0.22914099999999998
+        ],
+        "MCLUST Vowel": [
+            0.11616,
+            0.254169
+        ],
+        "MCLUST Yeast": [
+            0.63493725,
+            0.704559
+        ],
+        "MCLUST SteelPlates": [
+            0.28266925000000004,
+            0.42983175
+        ],
+        "MCLUST Wifi": [
+            0.005562500000000002,
+            0.028874999999999994
+        ],
+        "MCLUST Abalone": null,
+        "MCLUST Wilt": [
+            0.0061983,
+            0.018609725
+        ],
+        "MCLUST Landsat": [
+            0.10662550000000001,
+            0.14562599999999998
+        ],
+        "MCLUST WineQualityRed": null,
+        "MCLUST WineQualityWhite": null,
+        "MCLUST PhaseGesture": [
+            0.49087325,
+            0.54051675
+        ],
+        "MCLUST Digits": [
+            0.015218750000000001,
+            0.031935075
+        ],
+        "MCLUST EegEye": [
+            0.0995073,
+            0.20142424999999997
+        ],
+        "MCLUST Htru": [
+            0.024429125000000003,
+            0.05005612499999999
+        ],
+        "MCLUST Telescope": [
+            0.13436475,
+            0.15209075000000002
+        ],
+        "MCLUST LetterRecognition": [
+            0.04845000000000001,
+            0.06346874999999999
+        ],
+        "MCLUST Statlog": null,
+        "MCLUST SensorlessDrive": [
+            0.0548369,
+            0.10255349999999999
+        ],
+        "MCLUST Skin": null,
+        "MCLUST DiabetesPic": [
+            0.27250399999999997,
+            0.47391
+        ],
+        "MCLUST IndianLiver": [
+            0.26249900000000004,
+            0.4118505
+        ],
+        "MCLUST DrugConsumption": [
+            0.56352475,
+            0.64191
+        ],
+        "MCLUST Musk": [
+            0.038257450000000005,
+            0.0780114
+        ],
+        "MCLUST Image": [
+            0.08322502500000001,
+            0.31720575
+        ],
+        "MCLUST Frogs": [
+            0.025868375,
+            0.04655999999999999
+        ],
+        "MCLUST Bankotes": [
+            0.0,
+            0.0072993
+        ]
+    }
+}
